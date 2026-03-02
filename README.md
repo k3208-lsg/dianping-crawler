@@ -1,3 +1,4 @@
 # dianping-crawler
 大众点评评论采集工具
-通过GLM-5完成 OvO
+添加了京东
+加入简单数据处理
